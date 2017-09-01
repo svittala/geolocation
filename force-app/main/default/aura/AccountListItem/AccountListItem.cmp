@@ -1,0 +1,4 @@
+<aura:component>
+<aura:attribute name="account" type = "Account"/>
+<li><a>{!v.account.Name}</a> # Lat: {!v.account.Location_Latitude__s} Long: {!v.account.Location_Longitude__s} #</li>
+</aura:component>	
