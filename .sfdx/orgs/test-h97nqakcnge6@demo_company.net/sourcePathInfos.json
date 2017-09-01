@@ -905,14 +905,14 @@
     [
         "C:\\Users\\Siva\\sunsky\\SalesforceDx\\geolocation\\force-app\\main\\default\\classes\\AccountController.cls",
         {
+            "state": "u",
             "sourcePath": "C:\\Users\\Siva\\sunsky\\SalesforceDx\\geolocation\\force-app\\main\\default\\classes\\AccountController.cls",
             "isDirectory": false,
-            "size": 292,
-            "modifiedTime": 1504283002354,
-            "changeTime": 1504283002358,
-            "contentHash": "1b3bdaf5018ea4a53307d7f7f75627a10855eeb7",
             "isMetadataFile": false,
-            "state": "u"
+            "size": 480,
+            "modifiedTime": 1504296812070,
+            "changeTime": 1504296812070,
+            "contentHash": "442ccea9655778aa8f027a5661ecc6943b0071bc"
         }
     ],
     [
@@ -1065,10 +1065,10 @@
             "sourcePath": "C:\\Users\\Siva\\sunsky\\SalesforceDx\\geolocation\\force-app\\main\\default\\aura\\AccountListItem\\AccountListItem.cmp",
             "isDirectory": false,
             "isMetadataFile": false,
-            "size": 204,
-            "modifiedTime": 1504291190328,
-            "changeTime": 1504291190328,
-            "contentHash": "e6e9f5445b2dca4fc635c540495405331a3420bb"
+            "size": 206,
+            "modifiedTime": 1504296252696,
+            "changeTime": 1504296252696,
+            "contentHash": "558d387ee04606a62e58d7fe0a751dc02cb00851"
         }
     ],
     [
@@ -1311,7 +1311,7 @@
             "sourcePath": "C:\\Users\\Siva\\sunsky\\SalesforceDx\\geolocation\\force-app\\main\\default\\aura\\AccountMap\\AccountMapController.js",
             "isDirectory": false,
             "size": 1183,
-            "modifiedTime": 1504290830191,
+            "modifiedTime": 1504292137093,
             "changeTime": 1504290830191,
             "contentHash": "666ea7b2a8aa3aa611590898e546f36c3728afd4",
             "isMetadataFile": false,

@@ -16,7 +16,7 @@
             },
             "Name": "Hilton Union Square",
             "Location__Latitude__s": 37.786164,
-            "Location__Longitude__s": 122.410137
+            "Location__Longitude__s": -122.410137
         },
         {
             "attributes": {
@@ -25,7 +25,7 @@
             },
             "Name": "Hyatt",
             "Location__Latitude__s": 37.794157,
-            "Location__Longitude__s": 122.396311
+            "Location__Longitude__s": -122.396311
         }
     ]
 }
